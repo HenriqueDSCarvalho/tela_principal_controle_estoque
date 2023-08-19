@@ -36,7 +36,7 @@ nav
 {
     background-color: rgba(16,16,16,.5);
     width: 350px;
-    height: 800px;
+    height: 100%;
     left: -350px;
     position: absolute;
     transition: all .5s;
